@@ -1,26 +1,21 @@
-<hr />
-
 <h1 align="center">𝝅번 째 알파카의 개발 실험실</h1>
-
-<br />
-
-
-
 <p align="center">🦙🐾🐾🐾🐾</p>
 
-<p align="center"><b>🚧 폭발 주의! 🚧</b></p>
-
 <br />
 
-
-
 <div align="center">
-
-![Kapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWB0104&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=ffd700&text_color=FFF&icon_color=ffd700&border_color=000&count_private=true)
 	
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=RWB0104)
+2019.03 ~ 🕐
+	
+<br />
+<br />
+
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-29367e?style=flat&logo=github&logoWidth=25)](https://blog.itcode.dev)
+[![Email me](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&logoWidth=25&link=mailto:psj2716@gmail.com)](mailto:psj2716@gmail.com)
 	
 </div>
+
+<br />
 
 ---
 
@@ -54,6 +49,7 @@
 
 <div align="center">
 
+![Java](http://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoWidth=25&logoColor=FFF)
 ![Java](http://img.shields.io/badge/React-333?style=flat-square&logo=react&logoWidth=25&logoColor=61DAFB)
 ![Java](http://img.shields.io/badge/NextJS-FFF?style=flat-square&logo=next.js&logoWidth=25&logoColor=000)
 ![Java](http://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoWidth=25&logoColor=FFF)
@@ -85,6 +81,8 @@
 
 <h3 align="center">👀 Need Else? ❓</h3>
 
+<br />
+
 <div align="center">
 	
 ![Tech Blog](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoWidth=25&logoColor=FFF)
@@ -105,13 +103,11 @@
 
 <div align="center">
 
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-29367e?style=flat&logo=github&logoWidth=25)](https://blog.itcode.dev)
-[![Email me](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&logoWidth=25&link=mailto:psj2716@gmail.com)](mailto:psj2716@gmail.com)
+![Kapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWB0104&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=ffd700&text_color=FFF&icon_color=ffd700&border_color=000&count_private=true)
+	
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=RWB0104)
 	
 </div>
-
-<br />
-
 
 ---
 
