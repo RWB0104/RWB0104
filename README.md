@@ -29,6 +29,7 @@
 ![Java](http://img.shields.io/badge/C%23%20Winform-239120?style=flat-square&logo=C%20Sharp&logoWidth=25)
 ![Java](http://img.shields.io/badge/C%23%20WPF-239120?style=flat-square&logo=C%20Sharp&logoWidth=25)
 
+![Java](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoWidth=25&logoColor=000)
 ![Java](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoWidth=25&logoColor=000)
 ![Java](http://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoWidth=25&logoColor=FFF)
 
