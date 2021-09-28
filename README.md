@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Kapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWB0104&show_icons=true&theme=radical&count_private=true)
+![Kapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWB0104&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=ffd700&text_color=FFF&icon_color=ffd700&border_color=000&count_private=true)
 	
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=RWB0104)
 	
