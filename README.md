@@ -16,17 +16,6 @@
 
 <div align="center">
 
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-29367e?style=flat&logo=github&logoWidth=25)](https://blog.itcode.dev)
-[![Email me](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&logoWidth=25&link=mailto:psj2716@gmail.com)](mailto:psj2716@gmail.com)
-	
-</div>
-
-<br />
-
-
-
-<div align="center">
-
 ![Kapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWB0104&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=ffd700&text_color=FFF&icon_color=ffd700&border_color=000&count_private=true)
 	
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=RWB0104)
@@ -111,6 +100,18 @@
 ![Tech Blog](http://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoWidth=25&logoColor=FFF)
 
 </div>
+
+---
+
+<div align="center">
+
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-29367e?style=flat&logo=github&logoWidth=25)](https://blog.itcode.dev)
+[![Email me](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&logoWidth=25&link=mailto:psj2716@gmail.com)](mailto:psj2716@gmail.com)
+	
+</div>
+
+<br />
+
 
 ---
 
