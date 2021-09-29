@@ -87,13 +87,13 @@
 <br />
 
 <div align="center">
-	
-[![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoWidth=25&logoColor=FFF)](https://mariadb.org/)
-[![GitHub](http://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoWidth=25&logoColor=FFF)](https://github.com/)
-[![SVN](http://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoWidth=25&logoColor=FFF)](https://tortoisesvn.net/)
 
 [![Tomcat](http://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoWidth=25&logoColor=000)](https://tortoisesvn.net/)
 [![Nginx](http://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoWidth=25&logoColor=FFF)](https://tortoisesvn.net/)
+
+[![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoWidth=25&logoColor=FFF)](https://mariadb.org/)
+[![GitHub](http://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoWidth=25&logoColor=FFF)](https://github.com/)
+[![SVN](http://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoWidth=25&logoColor=FFF)](https://tortoisesvn.net/)
 
 [![Raspberry Pi](http://img.shields.io/badge/RaspberryPi-F00?style=flat-square&logo=raspberrypi&logoWidth=25&logoColor=FFF)](https://www.raspberrypi.org/)
 [![RHEL](http://img.shields.io/badge/RHEL-555?style=flat-square&logo=redhat&logoWidth=25&logoColor=EE0000)](https://www.redhat.com/ko)
