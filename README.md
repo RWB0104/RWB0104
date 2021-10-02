@@ -33,7 +33,7 @@
 [![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoWidth=25&logoColor=FFF)](https://www.typescriptlang.org/)
 
 [![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoWidth=25)](https://developer.mozilla.org/ko/docs/Web/CSS)
-[![SCSS](http://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoWidth=25&logoColor=FFF)](https://developer.mozilla.org/ko/docs/Web/CSS)
+[![SCSS](http://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoWidth=25&logoColor=FFF)](https://sass-lang.com/)
 
 [![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoWidth=25&logoColor=FFF)](https://developer.mozilla.org/ko/docs/Web/HTML)
 [![JSP](http://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoWidth=25)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94%EC%84%9C%EB%B2%84_%ED%8E%98%EC%9D%B4%EC%A7%80)
@@ -91,7 +91,7 @@
 [![Tomcat](http://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoWidth=25&logoColor=000)](https://tortoisesvn.net/)
 [![Nginx](http://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoWidth=25&logoColor=FFF)](https://tortoisesvn.net/)
 
-[![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoWidth=25&logoColor=FFF)](https://mariadb.org/)
+[![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoWidth=25&logoColor=FFF)](https://git-scm.com/)
 [![GitHub](http://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoWidth=25&logoColor=FFF)](https://github.com/)
 [![SVN](http://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoWidth=25&logoColor=FFF)](https://tortoisesvn.net/)
 
