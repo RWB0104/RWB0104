@@ -88,7 +88,10 @@
 
 <div align="center">
 
-[![Tomcat](http://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoWidth=25&logoColor=000)](https://tortoisesvn.net/)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoWidth=25)](https://gradle.org/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoWidth=25)](https://maven.apache.org/)
+
+[![Tomcat](http://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoWidth=25&logoColor=000)](http://tomcat.apache.org/)
 [![Nginx](http://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoWidth=25&logoColor=FFF)](https://tortoisesvn.net/)
 
 [![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoWidth=25&logoColor=FFF)](https://git-scm.com/)
