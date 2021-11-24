@@ -118,7 +118,7 @@
 ---
 
 <div align="center">
-	<img src="https://s2.gifyu.com/images/KakaoTalk_20190214_154723732.gif" width="50%" />
+	<img src="https://s2.gifyu.com/images/KakaoTalk_20190214_154723732.gif" />
 </div>
 
 <br />
