@@ -118,7 +118,7 @@
 ---
 
 <div align="center">
-	<img src="https://github.com/RWB0104/RWB0104/blob/master/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.gif?raw=true" width="50%" />
+	<img src="https://s2.gifyu.com/images/KakaoTalk_20190214_154723732.gif" width="50%" />
 </div>
 
 <br />
