@@ -13,6 +13,7 @@
 [![Home](http://img.shields.io/badge/Home-1c1c1c?style=flat&logo=react&logoWidth=25)](https://itcode.dev)
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-29367e?style=flat&logo=github&logoWidth=25)](https://blog.itcode.dev)
 [![Email me](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&logoWidth=25&link=mailto:psj2716@gmail.com)](mailto:psj2716@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dodgerblue?style=flat&logo=LinkedIn&logoColor=white&logoWidth=25&link=mailto:psj2716@gmail.com)](https://www.linkedin.com/in/itcode/)
 	
 </div>
 
